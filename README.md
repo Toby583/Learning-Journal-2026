@@ -1,2 +1,4 @@
-# Learning-Journal-2026
-My programming Journal
+# My Learning Journal
+
+# 27 10 2026
+the first entry
