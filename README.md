@@ -12,5 +12,8 @@ My current idea is to make a prototype around trying to save a crashing military
 
 This would be extremely exciting and fun to do.
 
+--every time you find a problem, state the problem, find how to fix it, if it doesnt work, try again.
+CONSTANTLY DOCUMENT THIS STUFF.
+
 
 
