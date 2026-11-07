@@ -17,7 +17,5 @@ CONSTANTLY DOCUMENT THIS STUFF.
 
 # 07 11 2026
 
-Today I have started to work on creating my first component, the interaction system. My idea is to use the unity input system, so I'm partially following a unity series:
-
-https://www.youtube.com/watch?v=TiTKAseu17A&list=PLX2vGYjWbI0RpLvO3B7aH-ObfcOifMD20
-
+Today I have started to work on creating my first component, the interaction system. My idea is to use the unity input system, where I'm following a video to understand it:
+(https://www.youtube.com/watch?v=CxyV_dVZVas)
