@@ -24,4 +24,8 @@ I successfully managed to create a script that checks if a value is pressed usin
 Secondly, I learnt how to make an onclick event for a UI button, where if the user presses E before they press the UI button, it outputs a specific message. However, if the UI button is pressed first and 
 then you press E, it activates an empty object in the scene and checks if its active, then prints another message. 
 
+The Click script
 <img width="1065" height="684" alt="image" src="https://github.com/user-attachments/assets/62561d2c-8d0c-4a5f-8988-eacc05b3bc8a" />
+The Interaction script
+<img width="592" height="600" alt="image" src="https://github.com/user-attachments/assets/31d77601-7bc8-4daa-87c5-afdb71d6e9df" />
+
