@@ -25,6 +25,7 @@ Secondly, I learnt how to make an onclick event for a UI button, where if the us
 then you press E, it activates an empty object in the scene and checks if its active, then prints another message. 
 
 The Click script
+
 <img width="1065" height="684" alt="image" src="https://github.com/user-attachments/assets/62561d2c-8d0c-4a5f-8988-eacc05b3bc8a" />
 
 The Interaction script
