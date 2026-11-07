@@ -19,3 +19,7 @@ CONSTANTLY DOCUMENT THIS STUFF.
 
 Today I have started to work on creating my first component, the interaction system. My idea is to use the unity input system, where I'm following a video to understand it:
 (https://www.youtube.com/watch?v=CxyV_dVZVas)
+
+I successfully managed to create a script that checks if a value is pressed using the input system, if pressed then it logs a message.
+Secondly, I learnt how to make an onclick event for a UI button, where if the user presses E before they press the UI button, it outputs a specific message. However, if the UI button is pressed first and 
+then you press E, it activates an empty object in the scene and checks if its active, then prints another message. 
