@@ -26,6 +26,7 @@ then you press E, it activates an empty object in the scene and checks if its ac
 
 The Click script
 <img width="1065" height="684" alt="image" src="https://github.com/user-attachments/assets/62561d2c-8d0c-4a5f-8988-eacc05b3bc8a" />
+
 The Interaction script
 <img width="592" height="600" alt="image" src="https://github.com/user-attachments/assets/31d77601-7bc8-4daa-87c5-afdb71d6e9df" />
 
