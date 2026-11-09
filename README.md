@@ -39,4 +39,9 @@ FOR MY TIME JOURNAL:
 
 Today made a tooltip system
 
+Following a tutorial for a tooltip box for Unity, exactly what I want to achieve with the interaction system. My first goal is to "Press E to pick up".
+
+<img width="1914" height="1033" alt="image" src="https://github.com/user-attachments/assets/b53c2ecc-77d5-4099-9411-40544cc23dbc" />
+
+
 
