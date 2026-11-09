@@ -47,5 +47,17 @@ Following the tutorial, I have created the tooltip manager and tooltip code, and
 The goal is to make the tooltip pop up when the mouse is hovering over the object, in this case a sphere.
 Unfortunately, I couldn't get this code to work, even after asking AI. I have decided to use a more recent tutorial and try again.
 
+The tooltip manager:
+
+<img width="993" height="841" alt="image" src="https://github.com/user-attachments/assets/98c99253-a999-4c67-acfc-477e38b823d4" />
+
+The tooltip:
+
+<img width="571" height="348" alt="image" src="https://github.com/user-attachments/assets/da7440d7-1c9b-48d1-a8e1-33d5105e32f3" />
+
+
+
+
+
 
 
