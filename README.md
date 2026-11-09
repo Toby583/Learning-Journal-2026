@@ -35,3 +35,8 @@ The Interaction script
 FOR MY TIME JOURNAL:
 7/11/2026 - WORKED ON INTERACTION SYSTEM COMPONENT - 1 HOUR
 
+# 09 11 2026
+
+Today made a tooltip system
+
+
