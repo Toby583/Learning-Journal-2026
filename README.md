@@ -43,5 +43,9 @@ Following a tutorial for a tooltip box for Unity, exactly what I want to achieve
 
 <img width="1914" height="1033" alt="image" src="https://github.com/user-attachments/assets/b53c2ecc-77d5-4099-9411-40544cc23dbc" />
 
+Following the tutorial, I have created the tooltip manager and tooltip code, and going to test - it doesn't work.
+The goal is to make the tooltip pop up when the mouse is hovering over the object, in this case a sphere.
+Unfortunately, I couldn't get this code to work, even asking AI. I have decided to use a more recent tutorial and try again.
+
 
 
