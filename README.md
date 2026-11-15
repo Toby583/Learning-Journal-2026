@@ -3,16 +3,16 @@
 # 02 11 2026
 
 Today I brainstormed what components and prototype I wanted to make.
-My current idea is to make a prototype around trying to save a crashing military plane, following a checklist for what to press within the cockpit, and the cabin, to save the aircraft. This would need components of:
+My current idea is to make a prototype around trying to escape a radioactive facility, trying to avoid areas that contain radiation, and making sure your health is high enough to survive high radiation areas. This would need components of:
 
-- Player controller - 2D/3D
-- Interaction system
-- Screen shake
+- Player controller - 3D
 - Health system
+- Interaction system
+- 
 
 This would be extremely exciting and fun to do.
 
-# 15 11 2026
+# 15 11 2026 - COMPONENT 1 - HEALTH SYSTEM
 
 Making my first component, a health system.
 My first hurdle was trying to calculate the distance between two objects, the enemy and the player camera.
