@@ -30,7 +30,7 @@ I successfully managed to use the distance formula to calculate the distance bet
 <img width="630" height="861" alt="image" src="https://github.com/user-attachments/assets/3f65ae29-6a10-47dd-9146-c7a4a8fbe2aa" />
 
 The next step is to find when the enemy is close to the player, then cause damage. I will make both the damage and distance a public float so it can easily be changed.
-To calculate damage, I will put an if statement in the update method to check the players distance to the enemy, and subtract a damage constant each frame.
+To calculate damage, I will put an if statement in the update method to check the players distance to the enemy, and subtract a damage value each frame.
 
 
 
