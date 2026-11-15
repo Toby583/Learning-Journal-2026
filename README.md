@@ -14,7 +14,7 @@ This would be extremely exciting and fun to do.
 
 # 15 11 2026
 
-Making my first component, without any tutorials, a health system.
+Making my first component, a health system.
 My first hurdle was trying to calculate the distance between two objects, the enemy and the player camera
 For this I wanted to understand the distance formula.
 
