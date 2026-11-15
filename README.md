@@ -24,6 +24,8 @@ This is the first hurdle I've encountered, I'm trying to log every frame the X p
 to find the fix, or follow a tutorial for how to find position. After looking through unity discussions and so on, I realised I was using int instead of float, so replacing this fixed the issue!
 
 <img width="715" height="626" alt="image" src="https://github.com/user-attachments/assets/644e9981-e141-46c5-8fb1-13c6a4ddce30" />
+<img width="1316" height="797" alt="image" src="https://github.com/user-attachments/assets/cb54f10f-179a-477a-be8a-525b54027103" />
+
 
 
 
