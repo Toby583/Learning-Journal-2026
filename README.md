@@ -58,6 +58,11 @@ The tooltip:
 FOR MY TIME JOURNAL:
 9/11/2026 - WORKED ON INTERACTION SYSTEM COMPONENT - 1 HOUR
 
+# 15 11 2026
+
+https://www.youtube.com/watch?v=ZYPCBBgmcpg
+
+
 
 
 
