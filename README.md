@@ -20,6 +20,12 @@ For this I wanted to understand the distance formula using Pythagorean theorem a
 
 <img width="287" height="67" alt="image" src="https://github.com/user-attachments/assets/0ffdef84-319a-4862-aa5f-6783c006f0c7" />
 
+This is the first hurdle I've encountered, I'm trying to log every frame the X position of the character object, and its failed. The two possible fixes I have is searching within the Unity Documentation to attempt
+to find the fix, or follow a tutorial for how to find position. 
+
+<img width="715" height="626" alt="image" src="https://github.com/user-attachments/assets/644e9981-e141-46c5-8fb1-13c6a4ddce30" />
+
+
 
 
 
