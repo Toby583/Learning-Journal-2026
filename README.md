@@ -6,13 +6,13 @@ Today I brainstormed what components and prototype I wanted to make.
 My current idea is to make a prototype around trying to escape a radioactive facility, trying to avoid areas that contain radiation, and making sure your health is high enough to survive high radiation areas. This would need components of:
 
 - Player controller - 3D
-- Health system
+- Health and damage system
 - Interaction system
 - 
 
 This would be extremely exciting and fun to do.
 
-# 15 11 2026 - COMPONENT 1 - HEALTH SYSTEM
+# 15 11 2026 - COMPONENT 1 - HEALTH & DAMAGE SYSTEM
 
 Making my first component, a health system.
 My first hurdle was trying to calculate the distance between two objects, the enemy and the player camera.
