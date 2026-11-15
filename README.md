@@ -26,6 +26,10 @@ to find the fix, or follow a tutorial for how to find position. After looking th
 <img width="715" height="626" alt="image" src="https://github.com/user-attachments/assets/644e9981-e141-46c5-8fb1-13c6a4ddce30" />
 <img width="1316" height="797" alt="image" src="https://github.com/user-attachments/assets/cb54f10f-179a-477a-be8a-525b54027103" />
 
+I successfully managed to use the Pythagorean theorem to calculate the distance between the character and the enemy!!!
+![Uploading image.png…]()
+
+
 
 
 
