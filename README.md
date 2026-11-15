@@ -15,8 +15,8 @@ This would be extremely exciting and fun to do.
 # 15 11 2026 - COMPONENT 1 - HEALTH & DAMAGE SYSTEM
 
 Making my first component, a health system.
-My first hurdle was trying to calculate the distance between two objects, the enemy and the player camera.
-For this I wanted to understand the distance formula.
+Firstly, I wanted to calculate the distance between two objects, the enemy and the player camera.
+For this it was neccessary to understand the distance formula.
 
 <img width="287" height="67" alt="image" src="https://github.com/user-attachments/assets/0ffdef84-319a-4862-aa5f-6783c006f0c7" />
 
