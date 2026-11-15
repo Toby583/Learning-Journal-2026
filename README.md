@@ -35,6 +35,9 @@ With checking if distance <= distance to check for, set take damage to true and 
 
 <img width="465" height="353" alt="image" src="https://github.com/user-attachments/assets/39985090-6470-4b1d-9999-ba67aaf708db" />
 
+FOR TIME JOURNAL: 15/11/2026 / 3 hours / 2pm - 3pm, 9pm - 10pm / Created code to check distance between two objects using the distance formula, created a damage system that works if the distance is within a certain
+amount.
+
 
 
 
