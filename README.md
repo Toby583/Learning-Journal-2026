@@ -28,6 +28,7 @@ to find the fix, or follow a tutorial for how to find position. After looking th
 
 I successfully managed to use the Pythagorean theorem to calculate the distance between the character and the enemy!!!
 <img width="630" height="861" alt="image" src="https://github.com/user-attachments/assets/3f65ae29-6a10-47dd-9146-c7a4a8fbe2aa" />
+
 The next step is to find when the enemy is close to the player, then cause damage. I will make both the damage and distance a public float so it can easily be changed.
 
 
