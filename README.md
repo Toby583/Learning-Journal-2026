@@ -16,7 +16,7 @@ This would be extremely exciting and fun to do.
 
 Making my first component, without any tutorials, a health system.
 My first hurdle was trying to calculate the distance between two objects, the enemy and the player camera
-For this I wanted to understand the distance formula using Pythagorean theorem a2 + b2 = c2 in coordinate geometry
+For this I wanted to understand the distance formula.
 
 <img width="287" height="67" alt="image" src="https://github.com/user-attachments/assets/0ffdef84-319a-4862-aa5f-6783c006f0c7" />
 
@@ -26,7 +26,7 @@ to find the fix, or follow a tutorial for how to find position. After looking th
 <img width="715" height="626" alt="image" src="https://github.com/user-attachments/assets/644e9981-e141-46c5-8fb1-13c6a4ddce30" />
 <img width="1316" height="797" alt="image" src="https://github.com/user-attachments/assets/cb54f10f-179a-477a-be8a-525b54027103" />
 
-I successfully managed to use the Pythagorean theorem to calculate the distance between the character and the enemy!!!
+I successfully managed to use the distance formula to calculate the distance between the character and the enemy!!!
 <img width="630" height="861" alt="image" src="https://github.com/user-attachments/assets/3f65ae29-6a10-47dd-9146-c7a4a8fbe2aa" />
 
 The next step is to find when the enemy is close to the player, then cause damage. I will make both the damage and distance a public float so it can easily be changed.
