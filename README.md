@@ -45,7 +45,7 @@ my code not working.
 
 <img width="552" height="165" alt="image" src="https://github.com/user-attachments/assets/856982e3-76b3-4ae1-9d28-8086c371e601" />
 
-I discovered that the issue was using OnCollisionEnter instead of OnTriggerEnter, since I was using On Trigger for the object, and also not using Compare Tag. It now works as it should.S
+I discovered that the issue was using OnCollisionEnter instead of OnTriggerEnter, since I was using On Trigger for the object, and also not using Compare Tag. It now works as it should.
 
 
 
