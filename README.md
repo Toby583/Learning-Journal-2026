@@ -38,7 +38,14 @@ With checking if distance <= distance to check for, set take damage to true and 
 FOR TIME JOURNAL: 15/11/2026 / 3 hours / 2pm - 3pm, 9pm - 10pm / Created code to check distance between two objects using the distance formula, created a damage system that works if the distance is within a certain
 amount.
 
+# 16/11/2026
 
+Today I am continuing component 1 by adding a health kit system, where I want to use collision detection to see if the player object comes into contact with an object tag "health_kit". I have faced a problem of
+my code not working.
+
+<img width="552" height="165" alt="image" src="https://github.com/user-attachments/assets/856982e3-76b3-4ae1-9d28-8086c371e601" />
+
+I discovered that the issue was using On Collision instead of OnTriggerEnter, since I was using On Trigger for the object, and also not using Compare Tag. It now works as it should.S
 
 
 
