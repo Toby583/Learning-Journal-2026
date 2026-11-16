@@ -46,6 +46,9 @@ my code not working.
 <img width="552" height="165" alt="image" src="https://github.com/user-attachments/assets/856982e3-76b3-4ae1-9d28-8086c371e601" />
 
 I discovered that the issue was using OnCollisionEnter instead of OnTriggerEnter, since I was using On Trigger for the object, and also not using Compare Tag. It now works as it should.
+What I've done so far is essentially the health and damage system, but I will tomorrow add some more features!
+
+FOR TIME JOURNAL: 16/11/2026 / 1.5 hours / 7pm - 8:30pm / Continued working on damage and health system, adding code using on trigger enter to provide more health to the player when close to a health kit object.
 
 
 
