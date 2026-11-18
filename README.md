@@ -54,6 +54,8 @@ FOR TIME JOURNAL: 16/11/2026 / 1.5 hours / 7pm - 8:30pm / Continued working on d
 
 Today I completed the code for my component one, the scene contains a moveable character, using a very simple input actions tutorial: https://www.youtube.com/watch?v=q-VfsQQlji0 , an enemy that damages you if you get close, and a one time use medkit that will heal you! The next component I will be making is an interaction system.
 
+FOR TIME JOURNAL: 18/11/2026 / 1 hour / 4pm - 5pm / Finished component one, adding a very simple character movement and ui.
+
 
 
 
