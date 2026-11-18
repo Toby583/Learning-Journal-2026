@@ -50,6 +50,10 @@ What I've done so far is essentially the health and damage system, but I will to
 
 FOR TIME JOURNAL: 16/11/2026 / 1.5 hours / 7pm - 8:30pm / Continued working on damage and health system, adding code using on trigger enter to provide more health to the player when close to a health kit object.
 
+# 16/11/2026
+
+Today I completed the code for my component one and it works as I wanted it to! The scene contains a moveable character, using an input actions tutorial: https://www.youtube.com/watch?v=q-VfsQQlji0 , an enemy that damages you if you get close, and a one time use medkit that will heal you!
+
 
 
 
