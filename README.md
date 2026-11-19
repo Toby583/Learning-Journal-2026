@@ -61,8 +61,11 @@ FOR TIME JOURNAL: 18/11/2026 / 1 hour / 4pm - 5pm / Finished component one, addi
 
 # 19 11 2026 - COMPONENT 2 - Interaction system
 
-Now it is time to move onto my next component, an interaction system. I will use the distance code from my first component to calculate when the character is near an interactable object, then prompt the option
-to interact with the object. Before doing this, I created my GitHub repository.
+Now it is time to move onto my next component, an interaction system. To do this, my idea is to use an on trigger event and show a ui element combined with a bool set to true, allowing the player to interact
+with the object. Before doing this, I created my GitHub repository. The first issue i have faced is the input not being registered:
+
+<img width="598" height="351" alt="image" src="https://github.com/user-attachments/assets/ceb5585a-188a-41cc-9b47-cb151ef28ed2" />
+
 
 
 
