@@ -62,7 +62,7 @@ FOR TIME JOURNAL: 18/11/2026 / 1 hour / 4pm - 5pm / Finished component one, addi
 # 19 11 2026 - COMPONENT 2 - Interaction system
 
 Now it is time to move onto my next component, an interaction system. I will use the distance code from my first component to calculate when the character is near an interactable object, then prompt the option
-to interact with the object. Before doing this, I created my GitHub repositry.
+to interact with the object. Before doing this, I created my GitHub repository.
 
 
 
