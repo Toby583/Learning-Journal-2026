@@ -78,7 +78,6 @@ This worked as I hoped it would:
 
 <img width="637" height="575" alt="image" src="https://github.com/user-attachments/assets/4f849e90-7915-4d88-b1c8-1a0abb49197f" />
 
-
 <img width="364" height="182" alt="image" src="https://github.com/user-attachments/assets/d7a9b976-37dc-4839-8bd3-c88d044ce426" />
 
 The next thing I want to do is show a UI element when you're able to interact with the object. After making text appear when the player hits the collider of the interactable object, I created an example of an interaction
