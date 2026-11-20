@@ -80,13 +80,15 @@ This worked as I hoped it would:
 
 <img width="364" height="182" alt="image" src="https://github.com/user-attachments/assets/d7a9b976-37dc-4839-8bd3-c88d044ce426" />
 
-The next thing I want to do is show a UI element when your able to interact with the object, this will be very straight forward. After making text appear when the player hits the interactable collider, as an example
-I made it so when you press E when in the zone of the interactable object, it moves up using transform.translate. An issue I had was previously this translate line was placed inside the if statement of if you press
-E and ready to interact is true, which only made the object move up a little bit and stop. To fix, I added a bool of isMoving, and made another if statement of if isMoving is true, then make the interactable object
-move up.
+The next thing I want to do is show a UI element when you're able to interact with the object. After making text appear when the player hits the collider of the interactable object, I created an example of an interaction
+event, where using transform.translate, created code where the object moves up. An issue that came up was the object only moved up a little then stopped, after having another look I realized it was because the code
+was placed inside of the if statement requiring two fields to be true, press E and have ready to interact be true. To fix this, I added a bool named is Moving, and made another if statement to check if this bool is true, then make the interactable object move up.
 
 <img width="734" height="739" alt="image" src="https://github.com/user-attachments/assets/ef26c44c-f247-4cc2-9543-649e3b8e3b25" />
 
+This is essentially the whole of the component, now I need to make sure it works correctly and write up the documentation for it.
+
+FOR TIME JOURNAL: 20/11/2026 / 1 hour / Finished the code for component 2, working on documentation.
 
 
 
