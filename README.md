@@ -76,9 +76,10 @@ with them containing ready to interact = true on enter, and ready to interact = 
 
 This worked as I hoped it would:
 
-<img width="618" height="590" alt="image" src="https://github.com/user-attachments/assets/5ec35ea5-67d2-4cfe-a7c8-9928651dfe95" />
+<img width="637" height="575" alt="image" src="https://github.com/user-attachments/assets/4f849e90-7915-4d88-b1c8-1a0abb49197f" />
 
-<img width="414" height="208" alt="image" src="https://github.com/user-attachments/assets/409eee3b-c7d8-4415-a406-a90d8b11d1da" />
+<img width="364" height="182" alt="image" src="https://github.com/user-attachments/assets/d7a9b976-37dc-4839-8bd3-c88d044ce426" />
+
 
 
 
