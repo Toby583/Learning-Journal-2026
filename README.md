@@ -57,7 +57,7 @@ Today I completed the code for my component one, the scene contains a moveable c
 <img width="977" height="698" alt="image" src="https://github.com/user-attachments/assets/f1422e0c-6afa-4d56-b79a-d21065af78f1" />
 
 
-FOR TIME JOURNAL: 18/11/2026 / 1 hour / 4pm - 5pm / Finished component one, adding a very simple character movement and ui.#
+FOR TIME JOURNAL: 18/11/2026 / 1 hour / 4pm - 5pm / Finished component one, adding a very simple character movement and ui.
 
 # 19 11 2026 - COMPONENT 2 - Interaction system
 
@@ -65,6 +65,14 @@ Now it is time to move onto my next component, an interaction system. To do this
 with the object. Before doing this, I created my GitHub repository. The first issue i have faced is the input not being registered:
 
 <img width="598" height="351" alt="image" src="https://github.com/user-attachments/assets/ceb5585a-188a-41cc-9b47-cb151ef28ed2" />
+
+FOR TIME JOURNAL: 19/11/2026 / 1 hour / Started working on component 1, an interaction system, hit a wall where the code didn't work.
+
+# 20 11 2026 - COMPONENT 2 - Interaction system
+
+The issue I faced yesterday with the interaction code I made is the input not being registered. I found the issue was OnTriggerEnter only gets called once, then after its called I should be able to 
+press E to log a message, with it failing. My solution is to have an update where if ready to interact = true and input is true, then log the message. For the OnTriggerEnter event, I added an OnTriggerExit event aswell
+with them containing ready to interact = true on enter, and ready to interact = false on exit.
 
 
 
