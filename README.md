@@ -80,7 +80,13 @@ This worked as I hoped it would:
 
 <img width="364" height="182" alt="image" src="https://github.com/user-attachments/assets/d7a9b976-37dc-4839-8bd3-c88d044ce426" />
 
-The next thing I want to do is show a UI element when your able to interact with the object, this will be very straight forward.
+The next thing I want to do is show a UI element when your able to interact with the object, this will be very straight forward. After making text appear when the player hits the interactable collider, as an example
+I made it so when you press E when in the zone of the interactable object, it moves up using transform.translate. An issue I had was previously this translate line was placed inside the if statement of if you press
+E and ready to interact is true, which only made the object move up a little bit and stop. To fix, I added a bool of isMoving, and made another if statement of if isMoving is true, then make the interactable object
+move up.
+
+<img width="734" height="739" alt="image" src="https://github.com/user-attachments/assets/ef26c44c-f247-4cc2-9543-649e3b8e3b25" />
+
 
 
 
