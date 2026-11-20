@@ -74,6 +74,14 @@ The issue I faced yesterday with the interaction code I made is the input not be
 press E to log a message, with it failing. My solution is to have an update where if ready to interact = true and input is true, then log the message. For the OnTriggerEnter event, I added an OnTriggerExit event aswell
 with them containing ready to interact = true on enter, and ready to interact = false on exit.
 
+This worked as I hoped it would:
+
+<img width="618" height="590" alt="image" src="https://github.com/user-attachments/assets/5ec35ea5-67d2-4cfe-a7c8-9928651dfe95" />
+
+<img width="414" height="208" alt="image" src="https://github.com/user-attachments/assets/409eee3b-c7d8-4415-a406-a90d8b11d1da" />
+
+
+
 
 
 
