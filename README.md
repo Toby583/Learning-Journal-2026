@@ -80,8 +80,7 @@ This worked as I hoped it would:
 
 <img width="364" height="182" alt="image" src="https://github.com/user-attachments/assets/d7a9b976-37dc-4839-8bd3-c88d044ce426" />
 
-The next thing I wanted to do is show a UI element when your able to interact with the object, I will be using WorldToScreenPoint and its Unity documentation to achieve this.
-
+The next thing I want to do is show a UI element when your able to interact with the object, this will be very straight forward.
 
 
 
