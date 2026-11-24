@@ -80,7 +80,7 @@ This worked as I hoped it would:
 
 <img width="364" height="182" alt="image" src="https://github.com/user-attachments/assets/d7a9b976-37dc-4839-8bd3-c88d044ce426" />
 
-The next thing I want to do is show a UI element when you're able to interact with the object for the example of how you could use this component. After making text appear when the player hits the collider of the interactable object, I created an example of an interaction
+The next thing I want to do is show a UI element when you're able to interact with the object for an example of how you could use this component. After making text appear when the player hits the collider of the interactable object, I created an example of an interaction
 event, where using transform.translate, created code where the object moves up. An issue that came up was the object only moved up a little then stopped, after having another look I realized it was because the code
 was placed inside of the if statement requiring two fields to be true, press E and have ready to interact be true. To fix this, I added a bool named is Moving, and made another if statement to check if this bool is true, then make the interactable object move up.
 
