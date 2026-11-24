@@ -90,6 +90,12 @@ This is essentially the whole of the component, now I need to make sure it works
 
 FOR TIME JOURNAL: 20/11/2026 / 1 hour / Finished the code for component 2, working on documentation.
 
+# 24 11 2026 - COMPONENT 2 - Interaction system
+
+Today I wrote up the documentation for the interaction system, and made sure there were no bugs within the code. The next component I will be working on is moving platforms.
+
+FOR TIME JOURNAL: 24/11/2026 / 1 hour / Wrote up documentation for Component 2 - Interaction
+
 
 
 
