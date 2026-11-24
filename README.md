@@ -88,6 +88,8 @@ was placed inside of the if statement requiring two fields to be true, press E a
 
 This is essentially the whole of the component, now I need to make sure it works correctly and write up the documentation for it.
 
+--THE CODE YOU ADDED ISNT FOR THE COMPONENT EXACTLY BUT RATHER AN EXAMPLE - REMMMMEMMMBERRRRR-
+
 FOR TIME JOURNAL: 20/11/2026 / 1 hour / Finished the code for component 2, working on documentation.
 
 # 24 11 2026 - COMPONENT 2 - Interaction system
