@@ -102,6 +102,13 @@ Today I am working on my next component of moving platforms, where my initial st
 To make the moving platforms, my memory of how it works is to place two points and make the platform move between those 2 positions.
 I will be using transform.translate to code the movement.
 
+The first problem I am facing is within my code it translates the platform forwards multiplied by speed, and when the platform collides with a point, I negative the speed to reverse the platform.
+However, it isn't moving in the other direction, nor is it logging anything..
+
+<img width="818" height="645" alt="image" src="https://github.com/user-attachments/assets/e1c45806-9219-458f-9092-9cdc8da49e1b" />
+
+
+
 
 
 
