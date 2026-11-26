@@ -107,6 +107,8 @@ However, it isn't moving in the other direction, nor is it logging anything..
 
 <img width="818" height="645" alt="image" src="https://github.com/user-attachments/assets/e1c45806-9219-458f-9092-9cdc8da49e1b" />
 
+Quickly, I remembered the fix was to add a rigid body to the platform, making it work perfectly!
+
 
 
 
