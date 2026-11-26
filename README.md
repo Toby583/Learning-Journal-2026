@@ -96,6 +96,11 @@ Today I wrote up the documentation for the interaction system, and made sure the
 
 FOR TIME JOURNAL: 24/11/2026 / 1 hour / Wrote up documentation for Component 2 - Interaction
 
+# 26 11 2026 - COMPONENT 3 - Moving Platforms
+
+Today I am working on my next component of moving platforms, where my initial step was to create my repository on GitHub. 
+To make the moving platforms, my memory of how it works is to place two points and make the platform move between those 2 positions.
+
 
 
 
