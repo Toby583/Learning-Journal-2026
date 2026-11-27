@@ -118,6 +118,11 @@ Today I continued working on the moving platforms component, where my next step 
 and would fall off, so a fix is to make its parent the platform. Because the platform has a rigidbody and doesnt use gravity, but the player object does, it makes the platform tip from the players weight. To fix this,
 I froze each axis on the platforms rigid body position and rotation constraints.
 
+The code works perfectly and is controlled via a speed variable, the next step will be to write the documentation.
+
+<img width="1146" height="696" alt="image" src="https://github.com/user-attachments/assets/8603ee0a-6f41-452f-aa10-076893579908" />
+
+
 
 
 
