@@ -115,7 +115,8 @@ FOR TIME JOURNAL: 26/11/2026 / 1 hour / Started component 3 - Moving platforms
 # 27 11 2026 - COMPONENT 3 - Moving Platforms
 
 Today I continued working on the moving platforms component, where my next step is to make the player parented to the platform when standing on top of it. This is due to how the player wouldn't stay on the platform
-and would fall off, so a fix is to make its parent the platform.
+and would fall off, so a fix is to make its parent the platform. Because the platform has a rigidbody and doesnt use gravity, but the player object does, it makes the platform tip from the players weight. To fix this,
+I froze each axis on the platforms rigid body position and rotation constraints.
 
 
 
